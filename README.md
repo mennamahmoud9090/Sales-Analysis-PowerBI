@@ -1,4 +1,5 @@
 Sales Performance Dashboard - Power BI 📊
+
 📝 Project Overview
 
 This interactive Power BI dashboard provides a comprehensive analysis of sales performance, profitability, and shipping logistics. The project helps stakeholders track key business metrics (KPIs) and make data-driven decisions regarding sales growth and regional performance.
